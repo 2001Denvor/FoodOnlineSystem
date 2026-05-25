@@ -9,7 +9,7 @@ FoodOnline is a modern, responsive, and minimalist web-based food delivery platf
 
 | Homepage | Menu View | Order Success |
 |---|---|---|
-| ![Homepage]((http://localhost:8080/FoodOrderingUI/)) | ![Menu][(http://localhost:8080/FoodOrderingUI/menu.jsp) |![About]http://localhost:8080/FoodOrderingUI/about.jsp | ![Order] http://localhost:8080/FoodOrderingUI/order.jsp | ![Success]http://localhost:8080/FoodOrderingUI/OrderServlet |
+| [Homepage]((http://localhost:8080/FoodOrderingUI/)) | [Menu](http://localhost:8080/FoodOrderingUI/menu.jsp) |[About](http://localhost:8080/FoodOrderingUI/about.jsp) | [Order] (http://localhost:8080/FoodOrderingUI/order.jsp) | [Success](http://localhost:8080/FoodOrderingUI/OrderServlet) |
 
 ---
 
